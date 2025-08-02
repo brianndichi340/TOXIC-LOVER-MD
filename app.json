@@ -1,8 +1,8 @@
 {
 
-  "name": "✧JEPEERS CREEPER-XMD✧ MULT DEVICE BOT",
+  "name": "✧jeeper creeper xmd✧ MULT DEVICE BOT",
 
-  "description": "JEEPERS CREEPER-XMD Whatsapp device bot made by TOXIC LOVER TECH to enable a user to use whatsapp with more powerful features..",
+  "description": "MAKAMESCO-MD Whatsapp device bot made by MAKAMESCO DIGITALSOLUTIONS enable a user to use whatsapp with more powerful features..",
 
   "keywords": [
 
@@ -16,9 +16,9 @@
 
   ],
 
-  "logo": "https://files.catbox.moe/o8b33m.jpg",
+  "logo": "https://files.catbox.moe/sigghy.jpg",
 
-  "repository": "https://github.com/toxiclover-tech/TOXIC-LOVER-MD",
+  "repository": "https://github.com/mesh-matheka/Makamesco_md",
 
   "succes_url": "/",
 
@@ -154,7 +154,7 @@
 
       "description": "you must name your bot huh!!!!!!",
 
-      "value": "✧JEEPERS CREEPER-XMD✧",
+      "value": "✧MAKAMESCO-MD✧",
 
       "required": false 
 
@@ -204,7 +204,7 @@
 
       "description": "don't you have a name bro.Insert your name here!!",
 
-      "value": "JEEPERS CREEPER-XMD ⚡",
+      "value": "MAKAMESCO-MD ⚡",
 
       "required": false
 
@@ -214,7 +214,7 @@
 
       "description": "you must add your bot image url.Get your image url now and fill it here",
 
-      "value": "https://files.catbox.moe/o8b33m.jpg",
+      "value": "https://files.catbox.moe/sigghy.jpg",
 
       "required": true
 
@@ -232,9 +232,9 @@
 
     "NUMERO_OWNER": {
 
-      "description": "Your phone number (exclude '+' and area code, e.g., '254717263689')",
+      "description": "Your phone number (exclude '+' and area code, e.g., '254739385768')",
 
-      "value": "254717263689",
+      "value": "254769995625",
 
       "required": false
 
